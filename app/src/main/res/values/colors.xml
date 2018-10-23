@@ -98,7 +98,7 @@
     <color name="bisque">#FFFFE4C4</color>
     <color name="black">#7e7e7e</color><!--FF000000-->
     <color name="blanchedalmond">#FFFFEBCD</color>
-    <color name="blue">#FF0000FF</color>
+    <color name="blue">#FF4169E1</color><!--FF0000FF-->
     <color name="blueviolet">#FF8A2BE2</color>
     <color name="brown">#FFA52A2A</color>
     <color name="burlywood">#FFDEB887</color>
@@ -110,7 +110,7 @@
     <color name="cornsilk">#FFFFF8DC</color>
     <color name="crimson">#FFDC143C</color>
     <color name="cyan">#FF00FFFF</color>
-    <color name="darkblue">#0000e2</color><!--FF00008B-->
+    <color name="darkblue">#FF4169E1</color><!--FF00008B-->
     <color name="darkcyan">#FF008B8B</color>
     <color name="darkgoldenrod">#FFB8860B</color>
     <color name="darkgray">#FFA9A9A9</color>
@@ -145,7 +145,7 @@
     <color name="honeydew">#FFF0FFF0</color>
     <color name="hotpink">#FFFF69B4</color>
     <color name="indianred">#FFCD5C5C</color>
-    <color name="indigo">#FF6B20a2</color><!--FF4B0082-->
+    <color name="indigo">#FFa020a0</color><!--FF4B0082-->
     <color name="ivory">#FFFFFFF0</color>
     <color name="khaki">#FFF0E68C</color>
     <color name="lavender">#FFE6E6FA</color>
